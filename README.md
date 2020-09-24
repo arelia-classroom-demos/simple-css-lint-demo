@@ -8,3 +8,6 @@ Our CSS linter is failing. Read the test output and update the style.css file to
 
 ## Run test  
 `npx stylelint "**/*.css"`
+
+## Resources
+To learn more about how stylelint is set up here, or how to customize the configuration, see the [stylelint Getting Started Guide](https://stylelint.io/user-guide/get-started)
