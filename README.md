@@ -3,10 +3,10 @@
 ## Assignment
 Our CSS linter is failing. Read the test output and update the style.css file to make the tests pass.
 
-## Set up  
+### Set up  
 `npm install`
 
-## Run test  
+### Run test  
 `npx stylelint "**/*.css"`
 
 ## Resources
